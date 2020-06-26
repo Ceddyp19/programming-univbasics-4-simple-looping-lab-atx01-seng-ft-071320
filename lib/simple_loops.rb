@@ -3,7 +3,7 @@ def loop_message_five_times
   string = "sup"
   while counter <= 6 do
     puts string
-    
+    count += 1
   end
 end
 
