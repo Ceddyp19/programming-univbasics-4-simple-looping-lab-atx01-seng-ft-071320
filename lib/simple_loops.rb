@@ -1,5 +1,5 @@
 def loop_message_five_times 
-  counter = 0
+  counter = 1
   string = "sup"
   while counter < 6 do
     puts string
