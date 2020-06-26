@@ -1,6 +1,6 @@
-def loop_message_five_times 
+def loop_message_five_times string
   counter = 0
-  string = "sup"
+  
   while counter < 6 do
     puts string
     counter += 1
