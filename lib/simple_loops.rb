@@ -19,6 +19,7 @@ end
 
 def output_array array 
   counter = 0 
+  #or while counter <= array.length do
   while array[counter] do
     puts array 
     counter += 1 
